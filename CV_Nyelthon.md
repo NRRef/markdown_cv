@@ -28,7 +28,7 @@ My experience includes testing with Jest, XUnit, and Cypress covering unit, comp
 ## WORK EXPERIENCE
 ### CI&T
 #### Senior Software Engineer
-##### March 2022 - Present (Remote)
+##### March 2022 - Present
 - Frontend development and maintenance using ReactJS, TypeScript, JavaScript, Styled Components, NextJS, Jest, and Cypress.
 - Backend development with C#, .NET Core, XUnit, NodeJS, including unit and integration tests.
 - Implemented queues and caching using Redis and RabbitMQ.
